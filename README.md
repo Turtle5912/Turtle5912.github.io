@@ -1,11 +1,25 @@
 # Welcome
+
+
+
+## [我的洛谷主页](luogu.com.cn/user/591560)
+
+## [我的vjudge主页](https://vjudge.net/user/Turtle_5912)
+
+
+
+
+
 ![](https://media.giphy.com/media/bfUhFIsqUsrMF2HDuu/giphy.gif)
+
+
 
 ![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)                    ![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)
 ![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)![](https://i.loli.net/2018/10/29/5bd644bb4f0ba.gif)
 
 **Turtle_5912**似乎~~很懒~~并**不懒**，可就**是不想**留下什么~~~(Doge)
 下面是他留下的**唯一一条**信息：
+
 ```cpp
 Hey Dog！Welcome to my mainpage！个人介绍：https://www.123pan.com/s/tTJDVv-kHOcv
 来看看呀！
