@@ -1,5 +1,5 @@
 # Welcome
-                                            [注册](turtle5912.github.io/register)
+  [注册](turtle5912.github.io/register)
 
 
 ## [我的洛谷主页](luogu.com.cn/user/591560)
